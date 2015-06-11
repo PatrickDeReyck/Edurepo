@@ -1,0 +1,3 @@
+# Edurepo
+First example Repo
+This is my first Github, just for educational purposes. Nothing interesting here...
